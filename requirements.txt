@@ -2,4 +2,7 @@ streamlit
 pandas
 bs4
 openpyxl
-OpenpyxlWriter
+yfinance
+plotly
+streamlit-aggrid
+matplotlib
